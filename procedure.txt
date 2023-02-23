@@ -4,3 +4,4 @@ v6 je travail sans maj ma branch pach2_pp1 depuis pp1
 v1
 v2
 v3
+v6 travail sans maj patch1_pp1
