@@ -10,4 +10,4 @@ v6 travail sans maj patch1_pp1
 patch3
 
 
-une modif
+une modif - une modif de la modif
